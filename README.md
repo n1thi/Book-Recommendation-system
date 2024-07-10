@@ -19,9 +19,9 @@ match their interests and introduce them to new books. It will also fix the prob
 systems not being personal enough, by considering factors like age, what users liked before, and
 where they live.
 
-## An Overview of Our Datasets:
+## An Overview of Data:
 
-We are utilizing three datasets: books, users, and ratings.
+Three datasets: books, users, and ratings.
 The books dataset contains a unique identifier “Book ID(ISBN)”, “Book-Title”, “Book-Author”,” Year-of
 Publication”, “Publisher” along with some links to images as columns “Image-URL-S”, “Image-URL-L”,
 and “Image-URL-M”.
